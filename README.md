@@ -19,7 +19,7 @@ b. Elemen elemen GUI yang digunakan
 
 c. Method
 
-Program memiliki empat fungsi utama yang diimplementasikan dalam metode:
+Memiliki empat fungsi utama yang diimplementasikan dalam metode:
 - insertData() → Menambahkan data baru ke dalam daftar produk.
 - updateData() → Memperbarui data produk yang dipilih pada tabel.
 - deleteData() → Menghapus produk yang dipilih setelah konfirmasi.
@@ -46,9 +46,9 @@ c. Menambahkan Produk Baru
 
 d. Memilih & Mengedit Produk (Update)
 - Pengguna dapat memilih salah satu baris data di tabel dengan mengkliknya.
+- tombol Add akan berubah menjadi Update.
 - Data dari baris tersebut otomatis ditampilkan kembali ke form input.
-- Setelah pengguna mengubah isi field, tombol Add akan berubah menjadi Update.
-- Saat tombol Update ditekan, data yang diupdate akan berubah.
+- Setelah pengguna mengubah isi field, tekan tombol Update dan data yang ingin diupdate akan berubah.
 
 e. Menghapus Produk
 - Pengguna memilih data yang ingin dihapus dengan mengklik baris pada tabel.
