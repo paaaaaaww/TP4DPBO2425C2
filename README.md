@@ -18,6 +18,7 @@ b. Elemen elemen GUI yang digunakan
 - JButton untuk melakukan operasi seperti Add, Update, Delete, dan Cancel.
 
 c. Method
+
 Program memiliki empat fungsi utama yang diimplementasikan dalam metode:
 - insertData() → Menambahkan data baru ke dalam daftar produk.
 - updateData() → Memperbarui data produk yang dipilih pada tabel.
