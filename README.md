@@ -59,4 +59,4 @@ f. Membatalkan Input (Cancel)
 - Tombol Cancel dapat ditekan kapan saja untuk mengosongkan seluruh input.
 - Ini dilakukan melalui metode clearForm().
 
-3. Dokumentasi saat program dijalankan (screenshot/screen record). Harus menunjukkan semua operasi CRUD.
+**3. Dokumentasi saat program dijalankan**
