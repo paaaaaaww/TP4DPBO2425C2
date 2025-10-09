@@ -62,4 +62,23 @@ f. Membatalkan Input (Cancel)
 
 **3. Dokumentasi saat program dijalankan**
 
-[![Dokumentasi saat program dijalankan](thumbnail.png)](1008(1).mp4)
+a. Tampilan Awal
+![tampilan awal](tampilan_awal.png)
+
+b. Add
+![add1](Dokumentasi.add1.png)
+![add2](add2.png)
+
+c. Update
+![update1](update1.png)
+![update2](update2.png)
+![update3](update3.png)
+
+d. Delete
+![tampilan awal](tampilan_awal.png)
+
+
+![cancel](cancel.png)
+![delete1](delete1.png)
+![delete2](delete2.png)
+
