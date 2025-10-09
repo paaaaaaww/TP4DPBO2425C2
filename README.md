@@ -13,7 +13,7 @@ a. Atribut Class
 
 b. Elemen elemen GUI yang digunakan
 - JTextField untuk input ID, nama, harga, dan merk.
-- JComboBox untuk memilih kategori produk dan jenis kulit.
+- JComboBox untuk memilih kategori produk dan skin type.
 - JTable untuk menampilkan daftar produk secara terstruktur.
 - JButton untuk melakukan operasi seperti Add, Update, Delete, dan Cancel.
 
@@ -41,20 +41,20 @@ b. Menampilkan Data Produk
 - tabel berisi informasi: No, ID Produk, Nama, Harga, Kategori, Skin Type, dan Merk.
 
 c. Menambahkan Produk Baru
-- Pengguna mengisi field input: ID, Nama, Harga, Kategori, Skin Type, dan Merk.
-- Setelah semua terisi, pengguna menekan tombol Add. nah program menjalankan metode insertData() yang akan membuat objek Product baru, Menambahkannya ke dalam ArrayList dan memperbarui tampilan tabel agar data baru langsung muncul.
+- mengisi field input: ID, Nama, Harga, Kategori, Skin Type, dan Merk.
+- Setelah semua terisi, tekan tombol Add. nah program menjalankan metode insertData() yang akan membuat objek Product baru, Menambahkannya ke dalam ArrayList dan memperbarui tampilan tabel agar data baru langsung muncul.
 
 d. Memilih & Mengedit Produk (Update)
-- Pengguna dapat memilih salah satu baris data di tabel dengan mengkliknya.
+- dapat memilih salah satu baris data di tabel dengan mengkliknya.
 - tombol Add akan berubah menjadi Update.
 - Data dari baris tersebut otomatis ditampilkan kembali ke form input.
-- Setelah pengguna mengubah isi field, tekan tombol Update dan data yang ingin diupdate akan berubah.
+- Setelah mengubah isi field, tekan tombol Update dan data yang ingin diupdate akan berubah.
 
 e. Menghapus Produk
-- Pengguna memilih data yang ingin dihapus dengan mengklik baris pada tabel.
+- memilih data yang ingin dihapus dengan mengklik baris pada tabel.
 - Kemudian menekan tombol Delete.
 - Program akan meminta konfirmasi penghapusan melalui dialog.
-- Jika pengguna memilih Yes, maka metode deleteData() dijalankan untuk menghapus data dari ArrayList dan memperbarui tabel agar data tersebut hilang dari tampilan.
+- Jika memilih Yes, maka metode deleteData() dijalankan untuk menghapus data dari ArrayList dan memperbarui tabel agar data tersebut hilang dari tampilan.
 
 f. Membatalkan Input (Cancel)
 - Tombol Cancel dapat ditekan kapan saja untuk mengosongkan seluruh input.
