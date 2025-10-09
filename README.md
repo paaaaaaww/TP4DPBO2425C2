@@ -25,9 +25,9 @@ Memiliki empat fungsi utama yang diimplementasikan dalam metode:
 - deleteData() → Menghapus produk yang dipilih setelah konfirmasi.
 - clearForm() → Membersihkan seluruh field input dan mengatur ulang tampilan form.
 
-  Saat pengguna menekan tombol Add, data dari input field akan disimpan ke dalam ArrayList dan langsung di tampilkan di tabel. Saat pengguna mengklik salah satu baris pada tabel, data produk akan muncul kembali ke form sehingga dapat diedit (Update) atau dihapus (Delete). Tombol Cancel dapat digunakan untuk mengosongkan seluruh input form.
+  Saat menekan tombol Add, data dari input field akan disimpan ke dalam ArrayList dan langsung di tampilkan di tabel. Saat mengklik salah satu baris pada tabel, data produk akan muncul kembali ke form sehingga dapat diedit (Update) atau dihapus (Delete). Tombol Cancel dapat digunakan untuk mengosongkan seluruh input form.
 
-  Program dilengkapi dengan data contoh awal melalui metode populateList(), sehingga pengguna langsung dapat melihat isi tabel saat pertama kali menjalankan aplikasi.
+  Program dilengkapi dengan data contoh awal melalui metode populateList(), sehingga kita bisa langsung melihat isi tabel saat pertama kali menjalankan aplikasi.
   
 
 **2. Penjelasan Alur**
