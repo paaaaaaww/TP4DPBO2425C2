@@ -77,6 +77,10 @@ c. Update
 ![update2](Dokumentasi/update2.png)
 ![update3](Dokumentasi/update3.png)
 
+d. Cancel
+
+![cancel](Dokumentasi/cancel.png)
+
 d. Delete
 
 ![cancel](Dokumentasi/cancel.png)
