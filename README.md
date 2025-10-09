@@ -62,4 +62,4 @@ f. Membatalkan Input (Cancel)
 
 **3. Dokumentasi saat program dijalankan**
 
-![Dokumentasi saat program dijalankan](1008(1).mp4)
+[![Dokumentasi saat program dijalankan](thumbnail.png)](1008(1).mp4)
