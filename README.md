@@ -66,7 +66,7 @@ a. Tampilan Awal
 ![tampilan awal](tampilan_awal.png)
 
 b. Add
-![add1](Dokumentasi.add1.png)
+![add1](Dokumentasi/add1.png)
 ![add2](add2.png)
 
 c. Update
