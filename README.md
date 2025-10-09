@@ -63,22 +63,23 @@ f. Membatalkan Input (Cancel)
 **3. Dokumentasi saat program dijalankan**
 
 a. Tampilan Awal
-![tampilan awal](tampilan_awal.png)
+
+![tampilan awal](Dokumentasi/tampilan_awal.png)
 
 b. Add
+
 ![add1](Dokumentasi/add1.png)
-![add2](add2.png)
+![add2](Dokumentasi/add2.png)
 
 c. Update
-![update1](update1.png)
-![update2](update2.png)
-![update3](update3.png)
+
+![update1](Dokumentasi/update1.png)
+![update2](Dokumentasi/update2.png)
+![update3](Dokumentasi/update3.png)
 
 d. Delete
-![tampilan awal](tampilan_awal.png)
 
-
-![cancel](cancel.png)
-![delete1](delete1.png)
-![delete2](delete2.png)
+![cancel](Dokumentasi/cancel.png)
+![delete1](Dokumentasi/delete1.png)
+![delete2](Dokumentasi/delete2.png)
 
