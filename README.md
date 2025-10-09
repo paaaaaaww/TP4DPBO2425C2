@@ -69,12 +69,15 @@ a. Tampilan Awal
 b. Add
 
 ![add1](Dokumentasi/add1.png)
+
 ![add2](Dokumentasi/add2.png)
 
 c. Update
 
 ![update1](Dokumentasi/update1.png)
+
 ![update2](Dokumentasi/update2.png)
+
 ![update3](Dokumentasi/update3.png)
 
 d. Cancel
